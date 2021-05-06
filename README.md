@@ -2,7 +2,7 @@
 Privacy policy for inorder app
 
 # What information do you collect?
-The app collects nothing and do not use any analityc tools.
+The app collects nothing and does not use any analityc tools.
 
 # How do you use the information?
 Nothing collected = nothing to use
